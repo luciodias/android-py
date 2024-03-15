@@ -15,5 +15,5 @@ Tutorial de como instalar Python e Jupyter Lab com Pandas, Matplotlib e Pyarrow 
 
 ```console
 curl --proto '=https' --tlsv1.2 -sSf \
-https://github.com/luciodias/android-py/blob/main/install-python.sh | sh
+https://raw.githubusercontent.com/luciodias/android-py/main/install-python.sh | sh
 ```
