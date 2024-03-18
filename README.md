@@ -17,7 +17,7 @@ Segundo o site do Termux:
 
 ### Instalando o Termux
 
-O APK pode ser baixa em um dos links abaixo. Pode ser necessário habilitar a opção "Instalar apps desconhecidos". 
+O APK pode ser baixa em um dos links abaixo. Pode ser necessário habilitar a opção "Instalar apps desconhecidos". <BR>
 [<img src="https://termux.dev//assets/globals/hosts/get-it-on-github.png" width="200" />](/../../../../termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk)
 [<img src="https://termux.dev/assets/globals/hosts/get-it-on-fdroid.png" width="200" />](https://f-droid.org/repo/com.termux_118.apk)
 
